@@ -43,3 +43,7 @@ This is a real-time chat application built with **React.js** on the frontend and
 ---
 
 # OUTPUT
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9221a0f2-8aa3-4e7f-b38d-33e6bca616f8" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f6e40ad2-1366-429c-bf1d-9b802fb10ed2" />
